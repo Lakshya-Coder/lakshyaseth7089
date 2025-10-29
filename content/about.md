@@ -8,5 +8,5 @@ type: about
 Hi 👋 — I'm **Lakshya**, a 17‑year‑old student from India. I love to play with computers, hardware, and all sorts of tech stuff.
 
 {{< cards >}}
-  {{< card link="projects" title="Projects" icon="briefcase" >}}
+  {{< card link="../projects" title="Projects" icon="briefcase" >}}
 {{< /cards >}}
