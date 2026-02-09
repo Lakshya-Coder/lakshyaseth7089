@@ -2,7 +2,6 @@
 title: life, lately and mindset
 weight: 1
 ---
-
 well hello my name is Lakhsya, rn 17 years old, well I'm trying out new series, in which I'm reflecting my whole life, and putting on this publicly hosted webite.
 
 first big one, how is life lately for me?
