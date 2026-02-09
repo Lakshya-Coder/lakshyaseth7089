@@ -15,6 +15,3 @@ well what I want from myslef
 2. don't watching series, and moives
 3. for entirtment, I want to read books, only text from media
 4. work on my passion, really build a thinking mind
-
-
-Wtf
