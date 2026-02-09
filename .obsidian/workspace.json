@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/blog/post-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "post-4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6d0606688be139b",
@@ -186,8 +187,8 @@
   },
   "active": "29dbbe8ed42c1c90",
   "lastOpenFiles": [
-    "content/blog/donut_c.md",
     "content/blog/_index.md",
+    "content/blog/donut_c.md",
     "content/about.md",
     "content/_index.md",
     "content/projects/_index.md",
