@@ -11,14 +11,10 @@
             "id": "3a5875bac127db81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/post-4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "post-4"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/post-4.md",
+                "file": "content/blog/post 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for post-4"
+              "title": "Backlinks for post 5"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/post-4.md",
+                "file": "content/blog/post 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from post-4"
+              "title": "Outgoing links from post 5"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/post-4.md",
+                "file": "content/blog/post 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of post-4"
+              "title": "Outline of post 5"
             }
           }
         ]
@@ -186,6 +182,8 @@
   },
   "active": "3a5875bac127db81",
   "lastOpenFiles": [
+    "content/blog/post-4.md",
+    "content/blog/post 5.md",
     "content/blog/donut_c.md"
   ]
 }
