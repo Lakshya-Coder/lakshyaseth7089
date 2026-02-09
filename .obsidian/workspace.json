@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b98d45ff322579a",
+        "id": "537a6004b8a46859",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9d87be2553f8b5",
+            "id": "29dbbe8ed42c1c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,14 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f9d87be2553f8b5",
+  "active": "29dbbe8ed42c1c90",
   "lastOpenFiles": [
-    "content/about.md",
+    "content/blog/donut_c.md",
     "content/blog/_index.md",
+    "content/about.md",
+    "content/_index.md",
     "content/projects/_index.md",
     "content/blog/post-1.md",
     "content/blog/post-4.md",
-    "content/blog/post 5.md",
-    "content/blog/donut_c.md"
+    "content/blog/post 5.md"
   ]
 }
