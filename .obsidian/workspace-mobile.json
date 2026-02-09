@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/post 5.md",
+                "file": "content/blog/post-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post 5"
+              "title": "post-4"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "0c956832eb81af68",
   "lastOpenFiles": [
+    "content/blog/post-2.md",
     "content/blog/post-4.md",
     "content/blog/post 5.md",
     "static/images/me.png",
@@ -178,7 +179,6 @@
     "go.mod",
     "content/projects/_index.md",
     "content/blog/post-3.mc",
-    "content/blog/post-2.md",
     "content/blog/post-1.md",
     "content/blog/donut_c.md",
     "content/blog/_index.md",
