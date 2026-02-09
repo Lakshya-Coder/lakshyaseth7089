@@ -22,3 +22,5 @@ May be I don't need music to heal myself or to talk to someone to heal myself th
 > Btw, I'm great at talking with people, you can see this in my previous post
 
 Well I was watching reel on Instagram which suggested that that India don't have intellectual conversation they don't like it like there is a guy who runs are founder podcast and the views that he gets his very low and CFO of Boston dynamics podcast with prakhar got very low views compare to when Harsh gujaral comes to his show why is that, are we not intellectual aur we just wanted drama, because being intellectual force is you to think about your own life and it reinforces to you the you should introspect yourself and that is uncomfortable for most of us because when you have trauma's like above I had described, you really don't want the thing about them a they are literally killing you from inside so yeah maybe that's the reason but I need to change it
+
+I know that the 
