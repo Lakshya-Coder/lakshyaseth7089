@@ -1,7 +1,6 @@
 ---
 title: time for a change
 ---
-
 well let's gift myself a new me.
 
 I don't know yet, but one thing is know this week is going to be horryfying week for me, but I want to change things, that I did over and over again over for 2 years, 
