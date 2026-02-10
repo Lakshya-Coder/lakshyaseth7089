@@ -11,14 +11,10 @@
             "id": "0c956832eb81af68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/post 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "post 5"
+              "title": "New tab"
             }
           }
         ]
@@ -168,14 +164,19 @@
   },
   "active": "0c956832eb81af68",
   "lastOpenFiles": [
-    "content/blog/post-4.md",
+    "content/blog/20260209.md",
+    "content/blog/20260210.md",
+    "/content/blog/20260209.md",
+    "content/blog/20260208.md",
     "content/blog/post 5.md",
-    "/content/blog/post-4.md",
+    "/content/blog/20260210.md",
+    "/content/blog/20260208.md",
     "/content/blog",
     "/content",
+    "content/blog/post-4.md",
+    "/content/blog/post-4.md",
     "content/blog/post-2.md",
     "/content/blog/post-1.md",
-    "content/blog/post 5.md",
     "static/images/me.png",
     "static/images/logo.png",
     "netlify.toml",
