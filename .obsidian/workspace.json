@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/20260210.md",
+                "file": "content/blog/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260210"
+              "title": "_index"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "29dbbe8ed42c1c90",
   "lastOpenFiles": [
+    "content/blog/donut_c.md",
+    "content/blog/20260210.md",
+    "content/blog/20260209.md",
     "content/blog/20260208.md",
     "content/blog/post-2.md",
-    "content/blog/20260209.md",
-    "content/blog/20260210.md",
     "conflict-files-obsidian-git.md",
     "content/blog/_index.md",
-    "content/blog/donut_c.md",
     "content/about.md",
     "content/_index.md",
     "content/projects/_index.md"
