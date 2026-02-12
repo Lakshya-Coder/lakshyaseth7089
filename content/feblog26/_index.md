@@ -1,5 +1,5 @@
 ---
-title: bloging
+title: Feb Log
 cascade:
   type: blog
 ---
