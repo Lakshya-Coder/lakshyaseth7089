@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Log
+      pageRef: /feblog
+      weight: 1
     - name: Blog
       pageRef: /blog
       weight: 1
