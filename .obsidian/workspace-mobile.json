@@ -11,14 +11,10 @@
             "id": "0c956832eb81af68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/20260212.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20260212"
+              "title": "New tab"
             }
           }
         ]
@@ -169,12 +165,34 @@
   },
   "active": "0c956832eb81af68",
   "lastOpenFiles": [
-    "content/blog/20260211.md",
+    "content/feblog26/20260208.md",
+    "/content/feblog26/20260208.md",
+    "content/feblog26/20260209.md",
+    "content/feblog26/_index.md",
+    "content/feblog26/20260212.md",
+    "content/feblog26/20260211.md",
+    "content/feblog26/20260210.md",
+    "/content/feblog26/20260209.md",
+    "assets/custom.css",
+    "/hugo.yaml",
+    "/content/feblog26/_index.md",
+    "/content/feblog26/20260212.md",
+    "/content/feblog26/20260211.md",
+    "/content/feblog26/20260210.md",
+    "/content/about.md",
+    "/content/_index.md",
+    "/assets/custom.css",
     "content/blog/20260212.md",
-    "content/blog/20260210.md",
-    "/content/blog/20260211.md",
+    "content/feblog26",
+    "assets",
+    "/content/feblog26",
+    "/assets",
+    "/content/projects",
     "/content/blog",
     "/content",
+    "content/blog/20260211.md",
+    "content/blog/20260210.md",
+    "/content/blog/20260211.md",
     "/content/blog/20260210.md",
     "content/blog/20260209.md",
     "/content/blog/20260209.md",
@@ -183,24 +201,7 @@
     "/content/blog/20260208.md",
     "content/blog/post-4.md",
     "/content/blog/post-4.md",
-    "content/blog/post-2.md",
-    "/content/blog/post-1.md",
     "static/images/me.png",
-    "static/images/logo.png",
-    "netlify.toml",
-    "hugo.yaml",
-    "go.sum",
-    "go.mod",
-    "content/projects/_index.md",
-    "content/blog/post-3.mc",
-    "content/blog/post-1.md",
-    "content/blog/donut_c.md",
-    "content/blog/_index.md",
-    "content/about.md",
-    "content/_index.md",
-    "README.md",
-    "LICENSE",
-    "static/images",
-    "static"
+    "static/images/logo.png"
   ]
 }
