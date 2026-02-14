@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/Paradox of friendship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Paradox of friendship"
             }
           }
         ]
@@ -169,16 +169,22 @@
   },
   "active": "0c956832eb81af68",
   "lastOpenFiles": [
+    "content/feblog26/20260214.md",
+    "content/blog/Paradox of friendship.md",
+    "content/feblog26/20260213.md",
+    "content/feblog26/20260212.md",
+    "content/_index.md",
+    "/content/feblog26/20260213.md",
+    "/content/feblog26",
+    "/content",
     "content/about.md",
     "content/blog/post-2.md",
     "content/blog/donut_c.md",
     "content/blog/_index.md",
-    "content/_index.md",
     "content/feblog26/_index.md",
     "content/feblog26/20260208.md",
     "/content/feblog26/20260208.md",
     "content/feblog26/20260209.md",
-    "content/feblog26/20260212.md",
     "content/feblog26/20260211.md",
     "content/feblog26/20260210.md",
     "/content/feblog26/20260209.md",
@@ -194,17 +200,11 @@
     "content/blog/20260212.md",
     "content/feblog26",
     "assets",
-    "/content/feblog26",
     "/assets",
     "/content/projects",
     "/content/blog",
-    "/content",
     "content/blog/20260211.md",
     "content/blog/20260210.md",
-    "/content/blog/20260211.md",
-    "/content/blog/20260210.md",
-    "content/blog/20260209.md",
-    "/content/blog/20260209.md",
     "static/images/me.png",
     "static/images/logo.png"
   ]
